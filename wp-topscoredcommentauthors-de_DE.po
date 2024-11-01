@@ -1,0 +1,84 @@
+# Translation of the WordPress plugin WP-TopScoredCommentAuthors by Knut Ahlers.
+# Copyright (C) 2009 
+# This file is distributed under the same license as the  package.
+# Knut Ahlers <knut@ahlers.me>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-topscoredcommentauthors\n"
+"POT-Creation-Date: 2009-12-27 12:59+0000\n"
+"PO-Revision-Date: 2009-12-27 16:51+0200\n"
+"Last-Translator: Knut Ahlers <knut@ahlers.me>\n"
+"Language-Team: de_DE <de@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: WP-TopScoredCommentAuthors.php:135
+msgid "See settings page to customize your widgets."
+msgstr "Nutzen Sie die Einstellungsseite um die Widget-Einstellungen anzupassen"
+
+#: WP-TopScoredCommentAuthors.php:150 WP-TopScoredCommentAuthors.php:254
+msgid "Donate"
+msgstr "Spenden"
+
+#: WP-TopScoredCommentAuthors.php:198
+msgid "Top Commentators"
+msgstr "Top Kommentatoren"
+
+#: WP-TopScoredCommentAuthors.php:203
+msgid "Settings for both widgets"
+msgstr "Einstellungen für beide Widgets"
+
+#: WP-TopScoredCommentAuthors.php:205
+msgid "Widget-Title:"
+msgstr "Widget-Titel:"
+
+#: WP-TopScoredCommentAuthors.php:209
+msgid "Number of months to get commentators from:"
+msgstr "Anzahl Monate, die ausgewertet werden:"
+
+#: WP-TopScoredCommentAuthors.php:214
+msgid "Include logged in commentators?"
+msgstr "Eingeloggte Autoren anzeigen?"
+
+#: WP-TopScoredCommentAuthors.php:218
+msgid "Set links to NoFollow?"
+msgstr "Links mit NoFollow versehen?"
+
+#: WP-TopScoredCommentAuthors.php:222
+msgid "Open links in new window?"
+msgstr "Links in neuem Fenster öffnen?"
+
+#: WP-TopScoredCommentAuthors.php:226
+msgid "Show scores to admins?"
+msgstr "Admins die Punkte anzeigen?"
+
+#: WP-TopScoredCommentAuthors.php:228
+msgid "Settings for the list widget"
+msgstr "Einstellungen für das Listen-Widget"
+
+#: WP-TopScoredCommentAuthors.php:230 WP-TopScoredCommentAuthors.php:235
+msgid "Number of commentators shown:"
+msgstr "Anzahl Kommentatoren zur Anzeige:"
+
+#: WP-TopScoredCommentAuthors.php:233
+msgid "Settings for the grid widget"
+msgstr "Einstellungen für das Bilder-Widget"
+
+#: WP-TopScoredCommentAuthors.php:239
+msgid "Size of the gravatars (in px):"
+msgstr "Größe der Gravatare (in px):"
+
+#: WP-TopScoredCommentAuthors.php:246
+msgid "Save"
+msgstr "Speichern"
+
+#: WP-TopScoredCommentAuthors.php:265
+msgid "Top Scored Comment Authors Options"
+msgstr "Top Scored Comment Authors Einstellungen"
+
+#: WP-TopScoredCommentAuthors.php:265
+msgid "Top Scored Comment Authors"
+msgstr "Top Scored Comment Authors"

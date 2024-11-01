@@ -1,0 +1,48 @@
+# Translation of the WordPress plugin WP-TopScoredCommentAuthors by Knut Ahlers.
+# Copyright (C) 2009 
+# This file is distributed under the same license as the  package.
+# Knut Ahlers <knut@ahlers.me>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-topscoredcommentauthors\n"
+"POT-Creation-Date: 2009-12-27 12:59+0000\n"
+"PO-Revision-Date: 2009-12-27 16:51+0200\n"
+"Last-Translator: Knut Ahlers <knut@ahlers.me>\n"
+"Language-Team: es_ES <es@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: WP-TopScoredCommentAuthors.php:66
+msgid "Top Commentators"
+msgstr "Top Comentaristas"
+
+#: WP-TopScoredCommentAuthors.php:68
+msgid "Widget-Title:"
+msgstr "Título del Widget:"
+
+#: WP-TopScoredCommentAuthors.php:72
+msgid "Number of months to get commentators from:"
+msgstr "Número de meses analizados:"
+
+#: WP-TopScoredCommentAuthors.php:76
+msgid "Number of commentators shown:"
+msgstr "Número de comentaristas publicados:"
+
+#: WP-TopScoredCommentAuthors.php:81
+msgid "Include logged in commentators?"
+msgstr "Incluir conectó comentaristas?"
+
+#: WP-TopScoredCommentAuthors.php:85
+msgid "Set links to NoFollow?"
+msgstr "Establecer vínculos de nofollow?"
+
+#: WP-TopScoredCommentAuthors.php:93
+msgid "Show scores to admins?"
+msgstr "Mostrar resultados de administrador?"
+
+#: WP-TopScoredCommentAuthors.php:174
+msgid "Donate"
+msgstr "Dona"
